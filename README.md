@@ -5,7 +5,7 @@
 ### Ingredients 
 
 
-> For the cake \
+> **For the cake** <br>
 225g/8oz plain flour \
 350g/12½oz caster sugar \
 85g/3oz cocoa powder \
@@ -15,12 +15,16 @@
 250ml/9fl oz milk \
 125ml/4½fl oz vegetable oil \
 2 tsp vanilla extract \
-250ml/9fl oz boiling water \
+250ml/9fl oz boiling water 
 
+<br>
 
-> For the chocolate icing \
+> **For the chocolate icing** <br>
 200g/7oz plain chocolate \
-200ml/7fl oz double cream \
+200ml/7fl oz double cream 
+
+<br>
+
 
 ### INSTRUCTIONS -The Most Amazing Chocolate Cake
   
