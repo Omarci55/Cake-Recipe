@@ -23,7 +23,6 @@
 200ml/7fl oz double cream \
 
 ### INSTRUCTIONS -The Most Amazing Chocolate Cake
-
   
 + Preheat oven to 350 degrees Fahrenheit. Butter three 9-inch cake rounds. Dust with flour and tap out the excess.
 + Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.
