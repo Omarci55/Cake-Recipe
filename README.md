@@ -2,7 +2,7 @@
 
 ![chocolate-cake](image/cake-Chocolate.jpg)
 
-### Ingredients 
+### Ingredient
 
 
 > **For the cake** <br>
